@@ -27,17 +27,7 @@ h1 {
   margin-bottom: 20px; /* Add some space below the project title */
 }
 
-/* input {
-  appearance: none;
-  -webkit-appearance: none;
-  border: 0;
-  font-size: 0.9rem;
-  background: #888;
-  padding: 1rem;
-  color: white;
-  cursor: pointer;
-} */
-/* Style for the submit button */
+
 input {
   background-color: #5f00cc; /* Background color */
   color: #fff; /* Text color */
@@ -63,11 +53,7 @@ input:hover {
 }
 
 
-/* footer {
-  position: absolute;
-  bottom: 0;
-} */
-/* Style for the footer */
+
 footer {
   
   color: #fff; /* Text color on the footer */
@@ -81,6 +67,5 @@ footer {
 
 }
 
-/* Add a hover effect to footer links (if applicable) */
 
 
